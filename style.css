@@ -128,7 +128,7 @@ form {
   padding: 15px;
   padding-bottom: 45px;
   border: 1px solid #ffffff;
-  border-radius: 5px;
+  border-radius: 8px;
 }
 
 form h1 {
@@ -157,6 +157,8 @@ form input:focus {
 }
 
 form textarea {
+  text-align: center;
+  color: rgb(97, 96, 96);
   padding: 5px 0px;
   width: 80%;
   height: 35px;
@@ -187,4 +189,10 @@ form button {
 
 form button:hover {
   transform: scale(1.05);
+}
+
+@media (max-width: 480px) {
+  form {
+    width: 75%;
+  }
 }
