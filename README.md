@@ -10,7 +10,7 @@
 ### 🎨 Preview
 
 <p align="center">
-  <img src="assets/preview.png" alt="Contact Form Screenshot" width="600"/>
+  <img src="preview.png" alt="Contact Form Screenshot" width="600"/>
 </p>
 
 ---
