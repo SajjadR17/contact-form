@@ -55,3 +55,10 @@ Deployed with Netlify in one click ⚡
 git clone https://github.com/SajjadR17/contact-form.git
 cd contact-form
 code .
+
+---
+
+## 🧾 License
+
+This project is licensed under the MIT License — meaning you're free to use, modify, and share it,  
+as long as you give proper credit to Sajjad Roohandeh.
