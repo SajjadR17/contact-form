@@ -1,8 +1,8 @@
-<h1 align="center">💌 Modern Contact Form</h1>
+<h1 align="center"> Modern Contact Form</h1>
 
 <p align="center">
-  <b>A clean, responsive, and modern contact form UI built with HTML & CSS</b><br>
-  🌐 <a href="https://sajjad-contact-form.netlify.app">View Live Demo</a> • 💾 <a href="https://github.com/SajjadR17/contact-form">View on GitHub</a>
+  <b>A clean, responsive, and modern contact form UI built with HTML & CSS & JS with validation</b><br>
+  🌐 <a href="https://sajjadr17.github.io/contact-form/">View Live Demo</a> • 💾 <a href="https://github.com/SajjadR17/contact-form">View on GitHub</a>
 </p>
 
 ---
@@ -18,16 +18,17 @@
 ## 🧠 About The Project
 
 This project is a responsive Contact Form created to practice and showcase front-end development skills.  
-It features a soft card design with box-shadow, a blue-purple gradient button, and a minimal UI for modern websites.
+It features a soft card design with box-shadow, a blue-purple gradient button, validations, and a minimal UI for modern websites.
 
 ---
 
 ## ⚙️ Tech Stack
 
-| Language       | Purpose          | Icon |
-| :------------- | :--------------- | :--: |
-| HTML5          | Structure        |  🧱  |
-| CSS3 (Flexbox) | Styling & Layout |  🎨  |
+| Language       | Purpose          |
+| :------------- | :--------------- |
+| HTML5          | Structure        |
+| CSS3 (Flexbox) | Styling & Layout |
+| JS             | Validation       |
 
 ---
 
@@ -39,13 +40,14 @@ It features a soft card design with box-shadow, a blue-purple gradient button, a
 ✅ Soft shadows for depth  
 ✅ Hover and focus animations  
 ✅ Accessible labels and placeholders
+✅ Inputs Validations
 
 ---
 
 ## 🚀 Deployment
 
 Deployed with Netlify in one click ⚡  
-🔗 [View Live Demo](https://sajjad-contact-form.netlify.app)
+🔗 [View Live Demo](https://sajjadr17.github.io/contact-form/)
 
 ---
 
