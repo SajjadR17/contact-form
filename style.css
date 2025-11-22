@@ -1,5 +1,6 @@
 body {
   background-color: #eef5ff;
+  user-select: none;
   font-family: "poppins", sans-serif;
 }
 
@@ -242,6 +243,28 @@ form button {
 
 form button:hover {
   transform: scale(1.05);
+}
+
+.name-error,
+.email-error,
+.subject-error {
+  display: none;
+}
+
+.error {
+  color: red;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+.input-error {
+  border: 1px solid red;
+}
+
+.seccuss {
+  color: green;
+  font-size: 14px;
+  margin-top: 25px;
 }
 
 @media (max-width: 480px) {
